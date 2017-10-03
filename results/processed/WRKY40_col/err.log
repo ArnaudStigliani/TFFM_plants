@@ -1,0 +1,4 @@
+Error in if ((logn) + (logp) < LOGMINPROD) { : 
+  l'argument est de longueur nulle
+Calls: compute_thresholds -> logev
+Exécution arrêtée

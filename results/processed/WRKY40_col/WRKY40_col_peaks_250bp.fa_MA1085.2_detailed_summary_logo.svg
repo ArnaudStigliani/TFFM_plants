@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+                 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+                 <svg height="170" width="720" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                 <line x1="85" y1="120" x2="687" y2="120" style="stroke:rgb(99,99,99);stroke-width:2" />
+<rect height="7.000000" width="2.000000" x="85.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="107.000000" y="140">
+1
+</text>
+<rect height="7.000000" width="2.000000" x="145.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="167.000000" y="140">
+2
+</text>
+<rect height="7.000000" width="2.000000" x="205.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="227.000000" y="140">
+3
+</text>
+<rect height="7.000000" width="2.000000" x="265.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="287.000000" y="140">
+4
+</text>
+<rect height="7.000000" width="2.000000" x="325.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="347.000000" y="140">
+5
+</text>
+<rect height="7.000000" width="2.000000" x="385.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="407.000000" y="140">
+6
+</text>
+<rect height="7.000000" width="2.000000" x="445.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="467.000000" y="140">
+7
+</text>
+<rect height="7.000000" width="2.000000" x="505.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="527.000000" y="140">
+8
+</text>
+<rect height="7.000000" width="2.000000" x="565.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="587.000000" y="140">
+9
+</text>
+<rect height="7.000000" width="2.000000" x="625.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="647.000000" y="140">
+10
+</text>
+<rect height="7.000000" width="2.000000" x="685.000000" y="120.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<line x1="80" y1="112" x2="80" y2="10" style="stroke:rgb(99,99,99);stroke-width:2" />
+<rect height="2.000000" width="7.000000" x="73.000000" y="110.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="63" y="115">
+0
+</text>
+<rect height="2.000000" width="7.000000" x="73.000000" y="60.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="63" y="65">
+1
+</text>
+<rect height="2.000000" width="7.000000" x="73.000000" y="10.000000" fill="rgb(0, 0, 0)" style="fill-opacity:1.00" />
+<text x="63" y="15">
+2
+</text>
+<text x="50" y="65"
+transform="rotate(-90, 50, 70)">
+bits
+</text>
+<!-- Begin 'A' -->
+<polygon points=" 90.000000, 105.745040, 111.000000, 102.430499, 119.000000, 102.430499, 140.000000, 105.745040, 132.500000, 105.745040, 126.250000, 104.916404, 103.750000, 104.916404, 97.500000, 105.745040" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'T' -->
+<rect height="0.313432" width="50.000000" x="90.000000" y="105.745040" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="1.958951" width="10.000000" x="110.000000" y="105.745040" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'C' -->
+<ellipse cx="115.000000" cy="108.346485" rx="25.000000" ry="0.642495" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="115.000000" cy="108.346485" rx="16.666667" ry="0.428330" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.642495" width="25.000000" x="115.000000" y="108.025238" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'G' -->
+<ellipse cx="115.000000" cy="109.494490" rx="25.000000" ry="0.505510" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="115.000000" cy="109.494490" rx="16.666667" ry="0.337007" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.505510" width="25.000000" x="115.000000" y="109.241735" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.126378" width="25.000000" x="115.000000" y="109.620867" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.379133" width="6.250000" x="133.750000" y="109.620867" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'A' -->
+<polygon points=" 150.000000, 102.781895, 171.000000, 96.197582, 179.000000, 96.197582, 200.000000, 102.781895, 192.500000, 102.781895, 186.250000, 101.135817, 163.750000, 101.135817, 157.500000, 102.781895" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'T' -->
+<rect height="0.679057" width="50.000000" x="150.000000" y="102.781895" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="4.244104" width="10.000000" x="170.000000" y="102.781895" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'C' -->
+<ellipse cx="175.000000" cy="107.835188" rx="25.000000" ry="0.809190" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="175.000000" cy="107.835188" rx="16.666667" ry="0.539460" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.809190" width="25.000000" x="175.000000" y="107.430593" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'G' -->
+<ellipse cx="175.000000" cy="109.322189" rx="25.000000" ry="0.677811" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="175.000000" cy="109.322189" rx="16.666667" ry="0.451874" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.677811" width="25.000000" x="175.000000" y="108.983284" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.169453" width="25.000000" x="175.000000" y="109.491642" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.508358" width="6.250000" x="193.750000" y="109.491642" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'A' -->
+<polygon points=" 210.000000, 95.123406, 231.000000, 70.542423, 239.000000, 70.542423, 260.000000, 95.123406, 252.500000, 95.123406, 246.250000, 88.978160, 223.750000, 88.978160, 217.500000, 95.123406" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<polygon points=" 235.000000, 75.458620, 227.000000, 84.291013, 242.000000, 84.291013" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'G' -->
+<ellipse cx="235.000000" cy="101.615908" rx="25.000000" ry="6.492502" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="235.000000" cy="101.615908" rx="16.666667" ry="4.328335" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="6.492502" width="25.000000" x="235.000000" y="98.369657" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="1.623125" width="25.000000" x="235.000000" y="103.239033" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="4.869376" width="6.250000" x="253.750000" y="103.239033" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'C' -->
+<ellipse cx="235.000000" cy="108.618334" rx="25.000000" ry="0.509925" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="235.000000" cy="108.618334" rx="16.666667" ry="0.339950" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.509925" width="25.000000" x="235.000000" y="108.363372" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'T' -->
+<rect height="0.139479" width="50.000000" x="210.000000" y="109.128259" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="0.871741" width="10.000000" x="230.000000" y="109.128259" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'G' -->
+<ellipse cx="295.000000" cy="65.705936" rx="25.000000" ry="40.688641" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="295.000000" cy="65.705936" rx="16.666667" ry="27.125761" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="40.688641" width="25.000000" x="295.000000" y="45.361616" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="10.172160" width="25.000000" x="295.000000" y="75.878096" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="30.516481" width="6.250000" x="313.750000" y="75.878096" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'T' -->
+<rect height="0.344479" width="50.000000" x="270.000000" y="106.394577" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="2.152991" width="10.000000" x="290.000000" y="106.394577" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'A' -->
+<polygon points=" 270.000000, 109.908902, 291.000000, 108.547568, 299.000000, 108.547568, 320.000000, 109.908902, 312.500000, 109.908902, 306.250000, 109.568569, 283.750000, 109.568569, 277.500000, 109.908902" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'C' -->
+<ellipse cx="295.000000" cy="109.954451" rx="25.000000" ry="0.045549" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="295.000000" cy="109.954451" rx="16.666667" ry="0.030366" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.045549" width="25.000000" x="295.000000" y="109.931677" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'T' -->
+<rect height="14.100518" width="50.000000" x="330.000000" y="19.716553" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="88.128236" width="10.000000" x="350.000000" y="19.716553" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'C' -->
+<ellipse cx="355.000000" cy="108.353673" rx="25.000000" ry="0.508884" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="355.000000" cy="108.353673" rx="16.666667" ry="0.339256" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.508884" width="25.000000" x="355.000000" y="108.099231" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'A' -->
+<polygon points=" 330.000000, 109.823148, 351.000000, 108.862557, 359.000000, 108.862557, 380.000000, 109.823148, 372.500000, 109.823148, 366.250000, 109.583000, 343.750000, 109.583000, 337.500000, 109.823148" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'G' -->
+<ellipse cx="355.000000" cy="109.911574" rx="25.000000" ry="0.088426" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="355.000000" cy="109.911574" rx="16.666667" ry="0.058951" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.088426" width="25.000000" x="355.000000" y="109.867361" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.022107" width="25.000000" x="355.000000" y="109.933680" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.066320" width="6.250000" x="373.750000" y="109.933680" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'C' -->
+<ellipse cx="415.000000" cy="63.268729" rx="25.000000" ry="44.682737" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="415.000000" cy="63.268729" rx="16.666667" ry="29.788491" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="44.682737" width="25.000000" x="415.000000" y="40.927361" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'A' -->
+<polygon points=" 390.000000, 109.690214, 411.000000, 107.951466, 419.000000, 107.951466, 440.000000, 109.690214, 432.500000, 109.690214, 426.250000, 109.255527, 403.750000, 109.255527, 397.500000, 109.690214" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'T' -->
+<rect height="0.031214" width="50.000000" x="390.000000" y="109.690214" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="0.195090" width="10.000000" x="410.000000" y="109.690214" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'G' -->
+<ellipse cx="415.000000" cy="109.942652" rx="25.000000" ry="0.057348" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="415.000000" cy="109.942652" rx="16.666667" ry="0.038232" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.057348" width="25.000000" x="415.000000" y="109.913977" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.014337" width="25.000000" x="415.000000" y="109.956989" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.043011" width="6.250000" x="433.750000" y="109.956989" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'A' -->
+<polygon points=" 450.000000, 101.569280, 471.000000, 47.763685, 479.000000, 47.763685, 500.000000, 101.569280, 492.500000, 101.569280, 486.250000, 88.117882, 463.750000, 88.117882, 457.500000, 101.569280" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<polygon points=" 475.000000, 58.524804, 467.000000, 79.047042, 482.000000, 79.047042" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'T' -->
+<rect height="0.825745" width="50.000000" x="450.000000" y="101.569280" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="5.160908" width="10.000000" x="470.000000" y="101.569280" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'G' -->
+<ellipse cx="475.000000" cy="107.553188" rx="25.000000" ry="0.822999" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="475.000000" cy="107.553188" rx="16.666667" ry="0.548666" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.822999" width="25.000000" x="475.000000" y="107.141688" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.205750" width="25.000000" x="475.000000" y="107.758937" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.617250" width="6.250000" x="493.750000" y="107.758937" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'C' -->
+<ellipse cx="475.000000" cy="109.188093" rx="25.000000" ry="0.811907" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="475.000000" cy="109.188093" rx="16.666667" ry="0.541271" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.811907" width="25.000000" x="475.000000" y="108.782140" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'A' -->
+<polygon points=" 510.000000, 99.641607, 531.000000, 55.873695, 539.000000, 55.873695, 560.000000, 99.641607, 552.500000, 99.641607, 546.250000, 88.699629, 523.750000, 88.699629, 517.500000, 99.641607" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<polygon points=" 535.000000, 64.627278, 527.000000, 81.134443, 542.000000, 81.134443" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'T' -->
+<rect height="1.207765" width="50.000000" x="510.000000" y="99.641607" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="7.548530" width="10.000000" x="530.000000" y="99.641607" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'C' -->
+<ellipse cx="535.000000" cy="107.938213" rx="25.000000" ry="0.748075" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="535.000000" cy="107.938213" rx="16.666667" ry="0.498717" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.748075" width="25.000000" x="535.000000" y="107.564175" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'G' -->
+<ellipse cx="535.000000" cy="109.343144" rx="25.000000" ry="0.656856" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="535.000000" cy="109.343144" rx="16.666667" ry="0.437904" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.656856" width="25.000000" x="535.000000" y="109.014716" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.164214" width="25.000000" x="535.000000" y="109.507358" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.492642" width="6.250000" x="553.750000" y="109.507358" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'A' -->
+<polygon points=" 570.000000, 109.000407, 591.000000, 108.520845, 599.000000, 108.520845, 620.000000, 109.000407, 612.500000, 109.000407, 606.250000, 108.880517, 583.750000, 108.880517, 577.500000, 109.000407" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'C' -->
+<ellipse cx="595.000000" cy="109.193892" rx="25.000000" ry="0.193484" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="595.000000" cy="109.193892" rx="16.666667" ry="0.128990" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.193484" width="25.000000" x="595.000000" y="109.097150" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<!-- Begin 'G' -->
+<ellipse cx="595.000000" cy="109.556825" rx="25.000000" ry="0.169450" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="595.000000" cy="109.556825" rx="16.666667" ry="0.112966" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.169450" width="25.000000" x="595.000000" y="109.472101" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.042362" width="25.000000" x="595.000000" y="109.599188" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.127087" width="6.250000" x="613.750000" y="109.599188" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'T' -->
+<rect height="0.043796" width="50.000000" x="570.000000" y="109.726275" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="0.273725" width="10.000000" x="590.000000" y="109.726275" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'A' -->
+<polygon points=" 630.000000, 108.501846, 651.000000, 107.782258, 659.000000, 107.782258, 680.000000, 108.501846, 672.500000, 108.501846, 666.250000, 108.321949, 643.750000, 108.321949, 637.500000, 108.501846" fill="rgb(178, 34, 34)" style="fill-opacity:1.00" />
+<!-- End 'A' -->
+<!-- Begin 'G' -->
+<ellipse cx="655.000000" cy="108.825945" rx="25.000000" ry="0.324099" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<ellipse cx="655.000000" cy="108.825945" rx="16.666667" ry="0.216066" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.324099" width="25.000000" x="655.000000" y="108.663896" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.081025" width="25.000000" x="655.000000" y="108.906970" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<rect height="0.243074" width="6.250000" x="673.750000" y="108.906970" fill="rgb(255, 165, 0)" style="fill-opacity:1.00" />
+<!-- End 'G' -->
+<!-- Begin 'T' -->
+<rect height="0.075584" width="50.000000" x="630.000000" y="109.150044" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<rect height="0.472398" width="10.000000" x="650.000000" y="109.150044" fill="rgb(0, 100, 0)" style="fill-opacity:1.00" />
+<!-- End 'T' -->
+<!-- Begin 'C' -->
+<ellipse cx="655.000000" cy="109.811221" rx="25.000000" ry="0.188779" fill="rgb(0, 0, 128)" style="fill-opacity:1.00" />
+<ellipse cx="655.000000" cy="109.811221" rx="16.666667" ry="0.125853" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<rect height="0.188779" width="25.000000" x="655.000000" y="109.716832" fill="rgb(255, 255, 255)" style="fill-opacity:1.00" />
+<!-- End 'C' -->
+<text x="370.000000" y="165">
+IC = 8.95
+</text>
+
+</svg>

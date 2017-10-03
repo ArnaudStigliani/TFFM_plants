@@ -1,0 +1,6 @@
+GHMM ghmm.py:148 - model.c:ghmm_dmodel_check(803): sum of s[62].out_a[*] = 0.0 (assumed final state but 4 transitions)
+GHMM ghmm.py:148 - model.c:ghmm_dmodel_check(828): state 62 can't be reached but is not set as non-reachale state
+GHMM ghmm.py:148 - model.c:ghmm_dmodel_check(828): state 63 can't be reached but is not set as non-reachale state
+GHMM ghmm.py:148 - reestimate.c:reestimate_one_step(532): Reestimated model is invalid, model_check found 2 errors
+GHMM ghmm.py:148 - reestimate.c:ghmm_dmodel_baum_welch(817): reestimate_one_step false (8.step)
+

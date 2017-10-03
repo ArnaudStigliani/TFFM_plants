@@ -1,0 +1,4 @@
+GHMM ghmm.py:148 - reestimate.c:ghmm_dmodel_baum_welch(843): No convergence: log P < log P-old! (n=2)
+
+GHMM ghmm.py:148 - reestimate.c:ghmm_dmodel_baum_welch(843): No convergence: log P < log P-old! (n=2)
+
